@@ -1,4 +1,4 @@
-package raval.server;
+package com.server;
 /******************************************************************************
 *	Program Author: Dr. Yongming Tang for CSCI 6810 Java and the Internet	  *
 *	Date: September, 2012													  *

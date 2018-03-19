@@ -1,4 +1,4 @@
-package raval.client;
+package com.client;
 
 import java.awt.Container;
 import java.awt.Dimension;

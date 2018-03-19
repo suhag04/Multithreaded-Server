@@ -1,4 +1,4 @@
-package raval.client;
+package com.client;
 
 import java.io.DataInputStream;
 import java.io.DataOutputStream;

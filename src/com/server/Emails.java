@@ -1,4 +1,4 @@
-package raval.server;
+package com.server;
 
 import java.sql.Connection;
 import java.sql.ResultSet;
