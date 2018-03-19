@@ -1,0 +1,2 @@
+# Multithreaded-Server
+Multithreaded-Server provides the messaging system that works like emailing. It allows a user to sign up, sign in, sign off, send a message to another user, reply a message and read the messages when signing in. It also organizes the messages in two folders, Inbox and Sent. It has two sides, client and server. The client side has a Window-based user interface. Server-side accesses DB. The server has implemented using TCP/IP with multithreading.
